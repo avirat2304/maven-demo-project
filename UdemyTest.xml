@@ -6,5 +6,5 @@
       <class name="com.tests.MainTest"/>
       <class name="com.facebook.TesstCases.VerifyLogin"/>
     </classes>
-  </test>
-</suite>
+  </test> <!-- Udemy -->
+</suite> <!-- Suite -->
